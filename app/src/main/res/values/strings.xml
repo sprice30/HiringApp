@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">HiringApp</string>
+    <string name="app_name">ApplytoJob</string>
+    <string name="textPosition">ApplytoJob</string>
+    <string name="textEmployer">ApplytoJob</string>
+    <string name="textTags">ApplytoJob</string>
+    <string name="name">ApplytoJob</string>
+    <string name="job">ApplytoJob</string>
+
+    <string name="textViewpaste"> Adding_a_job</string>
+    <string name="textViewpaste2"> Adding_a_job</string>
+    <string name="textViewpaste3"> Adding_a_job</string>
+    <string name="textViewpaste4"> Adding_a_job</string>
+    <string name="c1"> Empty Job</string>
+    <string name="c2"> Empty Job</string>
+    <string name="c3"> Empty Job</string>
+    <string name="c4"> Empty Job</string>
+
+
+
+
 </resources>
